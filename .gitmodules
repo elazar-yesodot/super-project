@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://gitlab.com/systems-monitoring/microservices/backend.git
+[submodule "mock"]
+	path = mock
+	url = https://gitlab.com/systems-monitoring/microservices/mock.git
+[submodule "systems-service"]
+	path = systems-service
+	url = https://gitlab.com/systems-monitoring/microservices/systems-service.git
+[submodule "users-service"]
+	path = users-service
+	url = https://gitlab.com/systems-monitoring/microservices/users-service.git
